@@ -1,6 +1,6 @@
 # SNAKE
 
-![](./images/snake.png)
+![](images/snake.png)
 
 Based on Gtk [example](www.opita.net/node/876) and ported to [Raylib](www.raylib.com) version 3.7.
 
