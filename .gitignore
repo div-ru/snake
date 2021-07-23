@@ -1,3 +1,6 @@
 ReadMe.md.backup
 ReadMe.txt
 ToDo.txt
+winbuild/Makefile.win
+winbuild/obj
+winbuild/snake.c
