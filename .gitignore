@@ -4,3 +4,4 @@ ToDo.txt
 winbuild/Makefile.win
 winbuild/obj
 winbuild/snake.c
+winbuild/resourses
