@@ -40,7 +40,7 @@ enum {
     SELF,
 };
 
-static void	SetEatPos(Game *cgame);
+static void SetEatPos(Game *cgame);
 static uint8_t Collision(Game *cgame);
 static void AddNewPartToSnake(Game *cgame);
 static void FreeRes(Game *cgame);
@@ -66,10 +66,10 @@ int main(void)
     
     InitWindow(WINDOWWIDTH, WINDOWHEIGHT, "SNAKE");
 
-    Texture2D background = LoadTexture("resourses/background.png");
-    Texture2D head = LoadTexture("resourses/head.png");
-    Texture2D eat = LoadTexture("resourses/eat.png");
-    Texture2D part = LoadTexture("resourses/part.png");
+    Texture2D background = LoadTexture("resources/background.png");
+    Texture2D head = LoadTexture("resources/head.png");
+    Texture2D eat = LoadTexture("resources/eat.png");
+    Texture2D part = LoadTexture("resources/part.png");
 
     //---------------------------------------------------------------------------------------
 	SetTargetFPS(30);
