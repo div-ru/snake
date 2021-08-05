@@ -4,6 +4,6 @@ ToDo.txt
 winbuild/Makefile.win
 winbuild/obj
 winbuild/snake.c
-winbuild/resourses
+winbuild/resources
 winbuild/libwinpthread-1.dll
 winbuild/snake.exe
